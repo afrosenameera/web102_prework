@@ -35,6 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 The most difficult challenges encountered while building the app were calculating the summary statistics at the top of the page, including the total individual contributions, total dollars raised, and total number of games, as well as displaying the top two most funded game name cards.
 
 ## License
